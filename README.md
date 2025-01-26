@@ -35,7 +35,6 @@ Additionally, I am constantly advancing my knowledge by exploring **AI technolog
 - **Machine Learning Models:** Advanced Anomaly Detection, Predictive and Prescriptive Modeling (e.g., Random Forest, Regression, KMeans Clustering).
 - **Big Data Analytics:** Expert in creating and optimizing **PySpark pipelines** for efficient and scalable financial data analysis.
 - **Data Wrangling:** Advanced skills in transforming, cleaning, and aggregating large-scale datasets to streamline analytical workflows.
-- **Customer Segmentation:** Leveraging advanced clustering techniques to identify actionable customer segments.
 - **Advanced Analytics:** Driving strategic insights through machine learning models applied to real-world business challenges.
 - **Data Strategy:** Translating complex business requirements into actionable, data-driven solutions.
 - **Cross-Functional Collaboration:** Proven ability to bridge gaps between business stakeholders and technical experts.
